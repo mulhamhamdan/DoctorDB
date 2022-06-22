@@ -1,0 +1,16 @@
+C:\Users\Mulham\documents\visual studio 2010\Projects\DoctorDB1\DoctorDB1\bin\Release\DocDB1.accdb
+C:\Users\Mulham\documents\visual studio 2010\Projects\DoctorDB1\DoctorDB1\bin\Release\DoctorDB1.exe.config
+C:\Users\Mulham\documents\visual studio 2010\Projects\DoctorDB1\DoctorDB1\bin\Release\DoctorDB1.exe
+C:\Users\Mulham\documents\visual studio 2010\Projects\DoctorDB1\DoctorDB1\bin\Release\DoctorDB1.pdb
+C:\Users\Mulham\documents\visual studio 2010\Projects\DoctorDB1\DoctorDB1\obj\x86\Release\DoctorDB.Paitent_Info_Input.resources
+C:\Users\Mulham\documents\visual studio 2010\Projects\DoctorDB1\DoctorDB1\obj\x86\Release\DoctorDB.Properties.Resources.resources
+C:\Users\Mulham\documents\visual studio 2010\Projects\DoctorDB1\DoctorDB1\obj\x86\Release\DoctorDB1.csproj.GenerateResource.Cache
+C:\Users\Mulham\documents\visual studio 2010\Projects\DoctorDB1\DoctorDB1\obj\x86\Release\DoctorDB1.exe
+C:\Users\Mulham\documents\visual studio 2010\Projects\DoctorDB1\DoctorDB1\obj\x86\Release\DoctorDB1.pdb
+C:\Users\Mulham\documents\visual studio 2010\Projects\DoctorDB1\DoctorDB1\bin\Release\DoctorDB1.exe.manifest
+C:\Users\Mulham\documents\visual studio 2010\Projects\DoctorDB1\DoctorDB1\bin\Release\DoctorDB1.application
+C:\Users\Mulham\documents\visual studio 2010\Projects\DoctorDB1\DoctorDB1\obj\x86\Release\DoctorDB1.exe.manifest
+C:\Users\Mulham\documents\visual studio 2010\Projects\DoctorDB1\DoctorDB1\obj\x86\Release\DoctorDB1.application
+C:\Users\Mulham\Desktop\DoctorDB1\DoctorDB1\bin\Release\DoctorDB1.exe.config
+C:\Users\Mulham\Desktop\DoctorDB1\DoctorDB1\obj\x86\Release\DoctorDB1.exe
+C:\Users\Mulham\Desktop\DoctorDB1\DoctorDB1\obj\x86\Release\DoctorDB1.pdb
